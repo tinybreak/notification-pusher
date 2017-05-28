@@ -1,0 +1,3 @@
+appengine/lib/**
+functions/node_modules/**
+functions/serviceAccountKey.json
